@@ -1,0 +1,9 @@
+Building htmlcoin
+
+See doc/readme-qt.rst for instructions on building htmlcoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of htmlcoin.
+
+See doc/build-*.txt for instructions on building htmlcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of htmlcoin.
