@@ -23,3 +23,5 @@ Sample Configuration
     server=1
     addnode=199.175.53.179 
     addnode=198.23.242.217
+    addnode=72.11.148.176
+    
