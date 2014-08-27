@@ -28,6 +28,9 @@ namespace Checkpoints
     static MapCheckpoints mapCheckpoints =
             boost::assign::map_list_of
             (  0, hashGenesisBlockOfficial )
+            ( 5202536, 8f7952ea42348cdc85e9d2e50da2cbb3c712be169fb0ae4556d8f6b713f5f84e )/*Last mined block after the swap for new HTMLCOIN 5. 
+		We are working on a new exciting coin, with new features and debugged by a new professional developers, swap will be automatic on
+		Bleutrade Exchange.*/
 			;
 
 
